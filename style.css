@@ -1,3 +1,5 @@
-head{
-    color: black;
+header{
+    position: fixed;
+    top: 10px;
+    border: ;
 }
