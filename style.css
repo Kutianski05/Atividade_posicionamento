@@ -2,7 +2,7 @@ body{
     background-color:white;  
 }
 header{
-    background-color:black;
+    background-color:pink;
     position: fixed;
     width: 100%;
     top: 0;
@@ -25,7 +25,16 @@ h1{
     width: 200px;
     height: 100vh;
     color: white;
-    background-color: black;
+    background-color: yellow;
     padding: 20px;
     border: 3px solid red;
+}
+.conteudo-principal{
+    width: 60px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: green;
+    text-align: center;
+    border: 3px solid aqua;
 }
